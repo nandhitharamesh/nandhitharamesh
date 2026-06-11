@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nandhitha 👋
 
-<!--
-**nandhitharamesh/nandhitharamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
 
-Here are some ideas to get you started:
+- Cybersecurity
+- Artificial Intelligence
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building technical projects
+- Learning cybersecurity
+- Preparing for master's studies in Europe
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/nandhitharamesh
